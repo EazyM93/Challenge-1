@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    text-align: left ;
+    padding: 5px;
+}
+
+tbody{
+    color: rgb(175, 175, 175);
+}
+
+#contatti{
+    position: fixed;
+    bottom: 0px;
+}
